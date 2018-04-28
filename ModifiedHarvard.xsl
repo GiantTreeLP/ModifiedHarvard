@@ -11,18 +11,18 @@
 	<xsl:template name="Start">
 		<xsl:choose>
 			<xsl:when test="b:Version">
-				<xsl:text>2010.2.02</xsl:text>
+				<xsl:text>2018.04.29</xsl:text>
 			</xsl:when>
 			<xsl:when test="b:XslVersion">
-				<xsl:text>2017</xsl:text>
+				<xsl:text>2018</xsl:text>
 			</xsl:when>
 			<xsl:when test="b:StyleNameLocalized">
 				<xsl:choose>
 					<xsl:when test="b:StyleNameLocalized/b:Lcid='1033'">
-						<xsl:text>Modifizierte Harvard</xsl:text>
+						<xsl:text>Modified Harvard (German)</xsl:text>
 					</xsl:when>
 					<xsl:when test="b:StyleNameLocalized/b:Lcid='1031'">
-						<xsl:text>Modifizierte Harvard</xsl:text>
+						<xsl:text>Modifizierte Harvard (Deutsch)</xsl:text>
 					</xsl:when>
 				</xsl:choose>
 			</xsl:when>
