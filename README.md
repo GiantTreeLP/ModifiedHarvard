@@ -1,5 +1,7 @@
 # ModifiedHarvard
 
+Latest release: https://git.groundmc.net/GiantTree/ModifiedHarvard/releases
+
 This repository holds the Harvard bibliography style modified by me.
 
 Great thanks to my lecturer Uwe Kern for the template and documentation.  
