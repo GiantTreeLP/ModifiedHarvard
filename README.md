@@ -7,7 +7,7 @@ This repository holds the Harvard bibliography style modified by me.
 Great thanks to my lecturer Uwe Kern for the template and documentation.  
 Even more thanks to my peers for basically proof-reading this bibliography style.
 
-Keep in mind that this style is in the german language but should be easily translated to German.
+Keep in mind that this style is in the german language but could easily be translated to English.
 
 # Style
 The style does not emphasize any part of reference but is meant to match the template from my lecturer.
